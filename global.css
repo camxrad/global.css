@@ -1,0 +1,44 @@
+.lede {
+	color: crimson;
+	font-weight: bold;
+}
+a:link {
+	color: #FFD51C;
+}
+a:visited {
+	color: #FFD51C;
+}
+a:hover {
+	color: #58679a;
+}
+a:active {
+	color: #58679a;
+}
+body {
+	background-color: #d39892
+}
+img {
+	width: 100%;
+}
+.image {
+	width: 10em
+}
+body {
+	font-size: 1.2em; 
+    line-height: 1.4;
+	font-family: 'Josefin Slab', serif;
+    text-align: center;
+}
+
+header1 {
+    color:#FFD51C;
+    text-align: center;
+    letter-spacing: 1em; 
+    font-size: 3.6em;
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: inherit;
+}
+
+footer{
+    text-align: right
+}
